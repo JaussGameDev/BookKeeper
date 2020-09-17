@@ -8,6 +8,6 @@ Obviously the game can only work online.
 You can find on the repository an export of the game and the unity project.
 Feel free to check both of us.
 
-All codes, models and animation are homemade <3
+All codes, models and animation are homemade.
 
 [![Watch the video](https://img.youtube.com/vi/D4YYwKwgmJc/2.jpg)](https://youtu.be/D4YYwKwgmJc)
